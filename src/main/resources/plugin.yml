@@ -1,0 +1,10 @@
+name: Dirt-Oceanblock
+version: '${version}'
+main: net.dirtcraft.plugins.dirtoceanblock.DirtOceanblock
+api-version: 1.16
+authors: [ DeJustinHD ]
+description: Adds some aliases for useful commands on Oceanblock
+commands:
+    island:
+        description: Main command for DirtOceanblock.
+        aliases: [ is ]
